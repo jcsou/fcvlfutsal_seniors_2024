@@ -21,3 +21,5 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+/fcvlfutsal_seniors_2024.iml
+/database/.~lock.fcvlfutsal_seniors_2024_datas.ods#

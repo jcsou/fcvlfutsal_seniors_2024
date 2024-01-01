@@ -1,0 +1,24 @@
+{ "tournoi": { "titre": "Tournoi en salle Seniors", 
+"date": "Samedi 06/01/2024", 
+"temps_jeu": "Temps de jeu 7 minutes. Rotation toutes les 8 minutes", 
+"lien_reglement": "pdf/01_ReglementTournoi2024.pdf", 
+"lien_ficheequipe": "pdf/02_Reference-Inscriptions2024.pdf", 
+"lien_site": "https://www.tes.fcvalduloir.live/fcvlfutsal_seniors_2024/dist/", 
+"titre_QRcode": "Tournoi En Salle FCVL futsal Seniors 2024" 
+},"lessalles": [
+{"id": "1-GLC",    
+"nomlong": "Gymnase Guy La Croix",    
+"lien": "img/salles/1-GLC-int.png"},  
+{"id": "2-CCVL",
+"nomlong": "Gymnase CC Val du Loir",
+"lien": "img/salles/2-CCVL.png"}
+],"lescategories": [
+{"id": "cat1",
+"categorie_id": "ABC",
+"nomlong": "Seniors",
+"texthoraire": "Rdv 19h15 - Début 20h"},
+{"id": "cat2",
+"categorie_id": "DEF",
+"nomlong": "Seniors",
+"texthoraire": "Rdv 19h15 - Début 20h"}
+],"lesequipes": [ {"cat_code": "cat1","categorie_id": "ABC","poule": "PA","id": "A1","nom": "Bayern","nomCourt": "Bayern","fanion": "bayern.png"},{"cat_code": "cat1","categorie_id": "ABC","poule": "PA","id": "A2","nom": "Copenhague","nomCourt": "Copenhague","fanion": "copenhague.png"},{"cat_code": "cat1","categorie_id": "ABC","poule": "PA","id": "A3","nom": "Galatasaray","nomCourt": "Galatasaray","fanion": "galatasaray.png"},{"cat_code": "cat1","categorie_id": "ABC","poule": "PA","id": "A4","nom": "Manchester United","nomCourt": "Manchester U","fanion": "manchesterunited.png"},{"cat_code": "cat1","categorie_id": "ABC","poule": "PB","id": "B1","nom": "Arsenal","nomCourt": "Arsenal","fanion": "arsenal.png"},{"cat_code": "cat1","categorie_id": "ABC","poule": "PB","id": "B2","nom": "PSV Eindhoven","nomCourt": "Eindhoven","fanion": "eindhoven.png"},{"cat_code": "cat1","categorie_id": "ABC","poule": "PB","id": "B3","nom": "RC Lens","nomCourt": "Lens","fanion": "lens.png"},{"cat_code": "cat1","categorie_id": "ABC","poule": "PB","id": "B4","nom": "Séville","nomCourt": "Séville","fanion": "seville.png"},{"cat_code": "cat1","categorie_id": "ABC","poule": "PC","id": "C1","nom": "Réal Madrid","nomCourt": "Réal Madrid","fanion": "realmadrid.png"},{"cat_code": "cat1","categorie_id": "ABC","poule": "PC","id": "C2","nom": "Naples","nomCourt": "Naples","fanion": "naples.png"},{"cat_code": "cat1","categorie_id": "ABC","poule": "PC","id": "C3","nom": "Braga","nomCourt": "Braga","fanion": "braga.png"},{"cat_code": "cat1","categorie_id": "ABC","poule": "PC","id": "C4","nom": "Union Berlin","nomCourt": "Berlin","fanion": "unionberlin.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PD","id": "D1","nom": "Dortmund","nomCourt": "Dortmund","fanion": "dortmund.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PD","id": "D2","nom": "Paris-SG","nomCourt": "PSG","fanion": "psg.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PD","id": "D3","nom": "AC Milan","nomCourt": "AC Milan","fanion": "acmilan.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PD","id": "D4","nom": "Newcastle","nomCourt": "Newcastle","fanion": "newcastle.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PE","id": "E1","nom": "Atlético Madrid","nomCourt": "Atlético","fanion": "atletico.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PE","id": "E2","nom": "Lazio","nomCourt": "Lazio","fanion": "lazio.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PE","id": "E3","nom": "Feynoord","nomCourt": "Feynoord","fanion": "feynoord.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PE","id": "E4","nom": "Celtic Glasgow","nomCourt": "Glasgow","fanion": "cglasgow.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PF","id": "F1","nom": "Barcelone","nomCourt": "Barcelone","fanion": "barcelone.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PF","id": "F2","nom": "Porto","nomCourt": "Porto","fanion": "porto.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PF","id": "F3","nom": "Chaktior Donesk","nomCourt": "Donetsk","fanion": "donetsk.png"},{"cat_code": "cat2","categorie_id": "DEF","poule": "PF","id": "F4","nom": "Manchester City","nomCourt": "M. City","fanion": "manchestercity.png"} ] }
